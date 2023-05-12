@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/davika-blog/static/css/main.3939bb4d.css",
+    "main.js": "/davika-blog/static/js/main.3ca13b43.js",
+    "index.html": "/davika-blog/index.html",
+    "main.3939bb4d.css.map": "/davika-blog/static/css/main.3939bb4d.css.map",
+    "main.3ca13b43.js.map": "/davika-blog/static/js/main.3ca13b43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3939bb4d.css",
+    "static/js/main.3ca13b43.js"
+  ]
+}
